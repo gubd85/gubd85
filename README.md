@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @gubd85
+- 👋 Hi, I’m Gustavo
 - 👀 I’m interested in Cryptocurrency
 - 🌱 I’m currently learning Flutter and Solidity.
 - 💞️ I’m looking to collaborate on developing projects on Web3
